@@ -5,7 +5,7 @@
 
 - 📚 I’m currently studying in **Academic College Of Tel Aviv-Yafo**
   
-- 👯 I’m looking for a job as **Junior Programmer**
+- 🔎 I’m looking for a job as **Junior Programmer**
 
 - 🌱 I’m currently learning **React and NodeJS**
 
