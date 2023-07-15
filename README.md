@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Yoav Sraya</h1>
 <h3 align="center">Third year computer science student!</h3>
 
-- 🔭 I’m currently working on **iStore - Apple Autoraized Reseller**
+- 🔭 I’m currently working on **iStore - Apple Authorized Reseller**
 
-- 📚 I’m currently studying in **academic college of Tel Aviv-Yafo**
+- 📚 I’m currently studying in **Academic College Of Tel Aviv-Yafo**
   
 - 👯 I’m looking for a job as **Junior Programmer**
 
