@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **iStore - Apple Autoraized Reseller**
 
-- 🌱 I’m currently learning **React and NodeJS**
-
+- 📚 I’m currently studying in **academic college of Tel Aviv-Yafo**
+  
 - 👯 I’m looking for a job as **Junior Programmer**
 
-- I’m currently studying in **academic college of Tel Aviv-Yafo**
+- 🌱 I’m currently learning **React and NodeJS**
 
 - 📫 How to reach me **sraya.yoav@gmail.com**
 
