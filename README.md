@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 I'm Yoav Sraya</h1>
 <h3 align="center">Third year computer science student!</h3>
 
-- 🔭 I’m currently working on **iStore - Apple Authorized Reseller**
+- 🔭 I’m currently working on: **iStore - Apple Authorized Reseller**
 
-- 📚 I’m currently studying in **Academic College Of Tel Aviv-Yafo**
+- 📚 I’m currently studying in: **Academic College Of Tel Aviv-Yafo**
   
-- 🔎 I’m looking for a job as **Junior Programmer**
+- 🔎 I’m looking for a job as: **Junior Programmer**
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning: **React and NodeJS**
 
-- 📫 How to reach me **sraya.yoav@gmail.com**
+- 📫 How to reach me: **sraya.yoav@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf](https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf)
+- 📄 My VC: [https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf](https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
