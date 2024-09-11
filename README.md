@@ -12,7 +12,7 @@
 
 - 👨‍💻 my recent project: https://github.com/yoavsraya/Code-Architect.git
 
-- 📄 My VC: [https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf](https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf)
+- 📄 My VC: [[https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf](https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf)](https://github.com/yoavsraya/Resume/blob/main/Yoav%20Sraya.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
