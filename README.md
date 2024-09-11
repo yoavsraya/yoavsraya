@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋 I'm Yoav Sraya</h1>
-<h3 align="center">Third year computer science student!</h3>
+<h3 align="center">Graduated computer science Degree</h3>
 
 - 🔭 I’m currently working on: **iStore - Apple Authorized Reseller**
 
-- 📚 I’m currently studying in: **Academic College Of Tel Aviv-Yafo**
   
 - 🔎 I’m looking for a job as: **Junior Programmer**
 
 - 🌱 I’m currently learning: **React and NodeJS**
 
 - 📫 How to reach me: **sraya.yoav@gmail.com**
+
+- 👨‍💻 my recent project: https://github.com/yoavsraya/Code-Architect.git
 
 - 📄 My VC: [https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf](https://github.com/yoavsraya/Resume/blob/main/vc%20En.pdf)
 
