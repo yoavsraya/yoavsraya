@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋 I'm Yoav Sraya</h1>
-<h3 align="center">Graduated computer science Degree</h3>
+# Yoav Sraya
 
-- 🔭 I’m currently working on: **aiOla**
+**AI Engineer at aiOla · AI infrastructure and agentic systems · Tel Aviv, Israel**
 
-- 📫 How to reach me: **sraya.yoav@gmail.com**
+I build the AI infrastructure and backend architecture behind production agentic systems. My work connects multi-agent harnesses with the integration, knowledge, workflow, and evaluation services they depend on.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/yoav sraya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoav sraya" height="30" width="40" /></a>
-<a href="https://instagram.com/yoavsraya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yoavsraya" height="30" width="40" /></a>
-</p>
+The engineering questions I enjoy most are where to draw service boundaries, how to manage durable agent state, how to expose tools and knowledge, and how to make agent behavior observable and testable.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## What I work on
+
+- **MCP infrastructure:** shared proxy services for OAuth2, tenant-scoped credentials, tool discovery, and execution across native integrations and external MCP servers.
+- **Agent harnesses:** LangGraph orchestration, specialist routing, tool execution, and PostgreSQL checkpointing.
+- **Knowledge access:** asynchronous document and OCR ingestion, hierarchical Markdown navigation, full-text search, and MCP retrieval for agents.
+- **Workflow platforms:** visual authoring with React Flow, versioned workflow definitions, and agent execution.
+- **Evaluation:** simulated users, mocked tools, and behavioral checks for loops, unapproved actions, and false success claims.
+
+My earlier work includes a multi-provider LLM SDK, Redis and pgvector conversation memory, schema RAG, and real-time speech pipelines built with Kafka, Socket.IO, Redis, Whisper-based ASR, NVIDIA Triton, and Silero VAD.
+
+## Core stack
+
+- **Languages and services:** Python, TypeScript, Node.js, FastAPI, Hono, Fastify
+- **Agents and data:** LangGraph, LangChain, MCP, PostgreSQL, pgvector, Redis/Valkey, Kafka
+- **Delivery and observability:** AWS, Docker, Kubernetes, Helm, GitHub Actions, OpenTelemetry, Langfuse
+
+## Background
+
+B.Sc. in Computer Science from the Academic College of Tel Aviv-Yaffo. My final project, an AI assistant for object-oriented software design, received a Certificate of Distinction.
+
+[LinkedIn](https://www.linkedin.com/in/yoav-sraya/) · [Email](mailto:sraya.yoav@gmail.com)
